@@ -36,7 +36,7 @@ You'll need some hardware to get started with writing your OS:
 
 You'll need to make sure that you can write to the micro-SD card using your dev machine. For me, that meant buying an SD card adapter, because the micro-SD card was too small for the slot in my laptop. You may need the same, or even a USB SD card reader too if your laptop doesn't have one built-in.
 
-Other incredibly useful hardware that you simply can't do without:
+Other useful hardware that is optional: 
 
  * A pair of eyebrow tweezers (I borrowed these from my wife!) - useful to insert/remove the micro-SD card into the tiny slot on the RPi4
  * A [USB to serial TTL cable](https://www.amazon.co.uk/gp/product/B01N4X3BJB/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) - useful to see what your OS is doing long before you can write information to the screen
