@@ -34,6 +34,8 @@ If you want to then boot with this, you'll need to copy the _kernel8.img_ file t
  * `sudo cp kernel8.img /boot`
  * Then edit _/boot/config.txt_ to include only these lines (for _part5-framebuffer_ anyway, otherwise read the tutorial in full for any necessary config changes for other parts...):
 
+```Warning ⚠  Only do this if it doesn't work without the modification. Setting core_freq_min will forever be traceable due to blowing a hardwear fuse indicating that you overclocked the pi ```
+
 ```c
 hdmi_group=1
 hdmi_mode=16
