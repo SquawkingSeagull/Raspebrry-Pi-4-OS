@@ -5,6 +5,7 @@ Writing a "bare metal" operating system for Raspberry Pi 4 (Part 3)
 
 Making something happen
 -----------------------
+Skip to part5 if you don't have a USB to serial TTL cable.
 
 So far our OS produces only a black screen. How can we be sure that our code is actually running? Let's do something a bit more interesting to really demonstrate that we have control of the hardware.
 
