@@ -8,6 +8,7 @@ Making a makefile
 
 I could now just tell you the commands required to build this very simple kernel one after the other, but let's try to future-proof a little. I anticipate that our kernel will become more complex, with multiple C files needing to be built. It therefore makes sense to craft a **makefile**. A makefile is written in (yet another) language that automates the build process for us.
 
+If at any point in the compiling process you get ``` Nothing to be done for Makefile.gcc try calling it Makefile without the ggc ending ```
 If you're using Arm gcc on Linux, save the following as _Makefile_ (in the repo as _Makefile.gcc_):
 
 ```
