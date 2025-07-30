@@ -146,6 +146,8 @@ Finally, we just need to make sure the ball is in the game arena. We bounce it o
 Conclusion
 ----------
 
+If you have issues with the code just crashing after drawing the first block try changing the -O2 to -O1 in the compiler flags in the Makefile.
+
 I hope writing your first game was easier than you thought it might be - and on bare metal too. It's pretty simple, granted, but once you've built it and got it going on your RPi4, I bet you'll be just a little bit addicted. I know I am!
 
 _Well done, you've just written your first game!_
