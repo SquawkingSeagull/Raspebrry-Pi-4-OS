@@ -1,4 +1,4 @@
-Writing a "bare metal" operating system for Raspberry Pi 4
+Writing a "bare metal" operating system for Raspberry Pi 4 # Attempt 1 at adding usb support. Links : https://github.com/rsta2/circle/releases/tag/Step49
 ==========================================================
 
 Introduction
